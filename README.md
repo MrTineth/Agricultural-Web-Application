@@ -17,19 +17,35 @@ Other Technologies : HTML5 | CSS3 | Java Script | Jquery | Bootstrap
 API : Tawk.To | Open Weather | Google Map | Google Analytics
 
 Home Screen
+
 ![1](https://github.com/MrTineth/Agricultural-Web-Application/assets/106744622/18cade14-69b3-4b52-a0fe-cc78c542cc54)
 
+
+
 Weather Report Screen
+
 ![2](https://github.com/MrTineth/Agricultural-Web-Application/assets/106744622/2f113c62-2717-4f71-88bd-77bb3e965f7d)
 
+
+
 Plant Check Up Screen
+
 ![3](https://github.com/MrTineth/Agricultural-Web-Application/assets/106744622/ec0706d4-0e12-45d8-a063-b755c61f863a)
 
+
+
 About Us Screen
+
 ![4](https://github.com/MrTineth/Agricultural-Web-Application/assets/106744622/becc39bc-b0cf-42a1-9677-69709eb377c4)
 
+
+
 Contact Us Screen
+
 ![5](https://github.com/MrTineth/Agricultural-Web-Application/assets/106744622/3dd0c19a-ee38-46aa-8c7d-e27131e29288)
 
+
+
 Admin Dashboard Screen
+
 ![d](https://github.com/MrTineth/Agricultural-Web-Application/assets/106744622/61b088e0-6bfa-47c1-add3-f2a27ceb3c13)
